@@ -1,0 +1,6 @@
+edition,citation,prize,size,inlibrary,buy
+many,few,ok,small,no,no
+one,many,not ok,big,no,yes
+few,few,not ok,big,always,no
+many,many,not ok,medium,no,yes
+many,many,ok,small,no,yes
